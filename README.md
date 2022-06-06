@@ -1,2 +1,2 @@
 # icecreamlabs-git-demo
-demo on github
+demo on github by icecream labs
